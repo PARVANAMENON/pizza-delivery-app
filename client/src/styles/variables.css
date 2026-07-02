@@ -1,0 +1,25 @@
+:root {
+
+  /* Brand Colors */
+  --bg: #FFF8F2;
+  --card: #FFFCF9;
+
+  --primary: #A8CBB7;
+  --primary-hover: #6F9D8B;
+
+  --secondary: #D8A7B1;
+
+  --accent: #C97C5D;
+
+  --text: #3F3F46;
+
+  --border: #E8DDD5;
+
+  --success: #7FB77E;
+  --danger: #D77A7A;
+
+  --shadow: 0 10px 30px rgba(0,0,0,.08);
+
+  --radius:20px;
+
+}

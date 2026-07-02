@@ -1,0 +1,61 @@
+.cta{
+
+    padding:100px 0;
+
+    background:#F8F4EF;
+
+}
+
+.cta-container{
+
+    text-align:center;
+
+}
+
+.cta h2{
+
+    font-family:"Playfair Display",serif;
+
+    font-size:54px;
+
+    margin-bottom:20px;
+
+}
+
+.cta p{
+
+    max-width:700px;
+
+    margin:0 auto 40px;
+
+    color:#666;
+
+    font-size:18px;
+
+    line-height:1.8;
+
+}
+
+.cta-btn{
+
+    background:var(--primary);
+
+    color:white;
+
+    padding:18px 40px;
+
+    border-radius:50px;
+
+    font-size:18px;
+
+    transition:.3s;
+
+}
+
+.cta-btn:hover{
+
+    background:var(--primary-hover);
+
+    transform:translateY(-3px);
+
+}

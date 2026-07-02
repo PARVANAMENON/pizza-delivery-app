@@ -1,0 +1,28 @@
+{
+  "name": "pizza-client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fontsource/great-vibes": "^5.2.8",
+    "@fontsource/playfair-display": "^5.2.8",
+    "@fontsource/poppins": "^5.2.7",
+    "axios": "^1.18.1",
+    "bootstrap": "^5.3.8",
+    "framer-motion": "^12.42.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.7.0",
+    "react-router-dom": "^6.30.4",
+    "react-toastify": "^11.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.10"
+  }
+}

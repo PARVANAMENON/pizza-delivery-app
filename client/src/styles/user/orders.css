@@ -1,0 +1,67 @@
+.orders-page{
+    width:90%;
+    margin:40px auto;
+}
+
+.order-card{
+    background:#fff;
+    padding:25px;
+    margin-bottom:25px;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,.08);
+}
+
+.order-card h2{
+    margin-bottom:15px;
+}
+
+.order-card p{
+    margin:8px 0;
+}
+
+.order-card hr{
+    margin:15px 0;
+}
+.cancel-btn {
+  margin-top: 12px;
+  padding: 10px 18px;
+  background: #e53935;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.3s;
+}
+
+.cancel-btn:hover {
+  background: #c62828;
+}
+.status-badge {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 20px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.received {
+  background: #2563eb;
+}
+
+.kitchen {
+  background: #f59e0b;
+}
+
+.delivery {
+  background: #7c3aed;
+}
+
+.delivered {
+  background: #16a34a;
+}
+
+.cancelled {
+  background: #dc2626;
+}
